@@ -57,7 +57,7 @@ class Cell:
         x_center2 = half_length2 + to_cell._x1
         y_center2 = half_length2 + to_cell._y1
 
-        fill_color = "red"
+        fill_color = "green"
         if undo:
             fill_color = "gray"
 
